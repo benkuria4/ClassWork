@@ -82,8 +82,11 @@ if __name__ == "__main__":
     # tree.insert("51")
     # tree.insert("67")
 
-    # tree.preorder_traversal()
+    print("\nPreorder traversal")
+    tree.preorder_traversal()
 
-    # tree.inorder_traversal()
+    print("\nInorder traversal")
+    tree.inorder_traversal()
 
+    print("\nPostorder traversal")
     tree.postorder_traversal()
