@@ -85,8 +85,8 @@ if __name__ == "__main__":
     print("\nPreorder traversal")
     tree.preorder_traversal()
 
-    print("\nInorder traversal")
-    tree.inorder_traversal()
+    # print("\nInorder traversal")
+    # tree.inorder_traversal()
 
-    print("\nPostorder traversal")
-    tree.postorder_traversal()
+    # print("\nPostorder traversal")
+    # tree.postorder_traversal()z
